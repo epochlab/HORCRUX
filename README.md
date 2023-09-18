@@ -8,7 +8,7 @@
 
 --------------------------------------------------------------------
 
-#### Lagrange Interpol
+#### Lagrange Interpolation Therom
 Abstract: *Generate shares which are distributed to authorized individuals. The minimum threshold and number of shares given to each individual can be selected such that the vault is accessible only by (groups of) authorized individuals. If fewer shares than the threshold are presented, the vault cannot be opened.*
 
 #### References
